@@ -2,6 +2,8 @@
 
 ## Overview
 Designed a structured two-floor network using Cisco Packet Tracer to simulate a small office environment.
+## Network Topology
+![Network Diagram](Network-Design.png)
 
 ## Network Design
 - Separate VLANs for each floor
