@@ -21,4 +21,3 @@ Designed a structured two-floor network using Cisco Packet Tracer to simulate a 
 - Improved understanding of LAN design
 - Practiced IP addressing & subnetting
 - Implemented structured network segmentation
-- 
